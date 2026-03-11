@@ -60,7 +60,7 @@
 * **流媒体**：支持解锁 **Netflix、HBO MAX、Disney+** 等主流平台。
 * **短视频**：支持 **TikTok** 直播与短视频业务。
 
-<img scr="https://raw.githubusercontent.com/jichangbaike/xxfeng/refs/heads/main/images/xxfeng-test-20260311.png" alt="小旋风 xxfeng 测试图">
+<img src="https://raw.githubusercontent.com/jichangbaike/xxfeng/refs/heads/main/images/xxfeng-test-20260311.png" alt="小旋风 xxfeng 测试图">
 
 > 测试时间：2026-03-11
 >
