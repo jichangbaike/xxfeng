@@ -74,7 +74,7 @@
 小旋风自研客户端支持主流平台：
 
 * **Windows 桌面端** ：[Windows 客户端下载](https://app.pbbapi.baifeng88.com/apps/xxf/xxfapp-lite.exe)
-* **macOS 桌面端 **：[macOS 客户端下载](https://app.pbbapi.baifeng88.com/apps/xxf/xxfapp-lite.pkg)
+* **macOS 桌面端**：[macOS 客户端下载](https://app.pbbapi.baifeng88.com/apps/xxf/xxfapp-lite.pkg)
 * **iOS 平台**：[请进入用户中心查看教程](https://finalto.xyz/CZsegB)
 * **Android 平台**：[Android客户端下载](https://app.pbbapi.baifeng88.com/apps/xxf/xxfapp-lite.apk)
 * **Linux 平台**：[Linux客户端下载](https://app.pbbapi.baifeng88.com/apps/xxf/xxfapp-linux-lite.zip)
