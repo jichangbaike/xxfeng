@@ -8,7 +8,7 @@
 > 
 > **关于售后**:  如遇登录问题、套餐咨询、节点异常、退款或其他售后问题，请前往对应平台官网或官方渠道咨询。 
 > 
-> **最后更新**：2026年3月20日（套餐详情以官网为准）。
+> **最后更新**：2026年6月27日（套餐详情以官网为准）。
 
 ---
 
@@ -71,11 +71,14 @@
 
 ## 平台支持与下载指引
 
-小旋风支持全平台主流客户端：
+小旋风自研客户端支持主流平台：
 
-* **桌面端 (Windows/macOS)**：推荐使用 **Clash Verge Rev** 或 **FlClash**。
-* **iOS 平台**：推荐使用 **Shadowrocket (小火箭)**、Stash 或 Surge。
-* **Android 平台**：推荐使用 **FlClash** 或 Clash 相关客户端。
+* **Windows 桌面端** ：[Windows 客户端下载](https://app.pbbapi.baifeng88.com/apps/xxf/xxfapp-lite.exe)
+* **macOS 桌面端 **：[macOS 客户端下载](https://app.pbbapi.baifeng88.com/apps/xxf/xxfapp-lite.pkg)
+* **iOS 平台**：[请进入用户中心查看教程](https://finalto.xyz/CZsegB)
+* **Android 平台**：[Android客户端下载](https://app.pbbapi.baifeng88.com/apps/xxf/xxfapp-lite.apk)
+* **Linux 平台**：[Linux客户端下载](https://app.pbbapi.baifeng88.com/apps/xxf/xxfapp-linux-lite.zip)
+* **OpenWrt 平台**：[OpenWrt 客户端下载](https://app.pbbapi.baifeng88.com/apps/xxf/xxfapp-openwrt-lite.zip)
 
 ---
 
@@ -91,6 +94,6 @@
 
 ## 官网注册入口
 
-- 👉 **小旋风 xxfeng 官网：https://finalto.xyz/CZsegB**
+- 👉 **小旋风 xxfeng 官网**： https://finalto.xyz/CZsegB
 
 > **提示**：请妥善保管您的订阅链接，切勿泄露给他人，以免影响您的正常使用。
